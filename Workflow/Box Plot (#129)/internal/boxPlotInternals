@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="boxPlotInternals">
+<entry key="numberOf" type="xint" value="4"/>
+<config key="colSpec0">
+<entry key="column_name" type="xstring" value="0_univariate"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.9760295021511985"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.9760295021511985"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec1">
+<entry key="column_name" type="xstring" value="1_univariate"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.5617977528089887"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.5617977528089887"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec2">
+<entry key="column_name" type="xstring" value="0_multivariate"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.9792060491493383"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.9792060491493383"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="colSpec3">
+<entry key="column_name" type="xstring" value="1_multivariate"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.744186046511628"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.744186046511628"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="stats0_univariate">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.9760295021511985"/>
+<entry key="1" type="xdouble" value="0.9760295021511985"/>
+<entry key="2" type="xdouble" value="0.9760295021511985"/>
+<entry key="3" type="xdouble" value="0.9760295021511985"/>
+<entry key="4" type="xdouble" value="0.9760295021511985"/>
+<entry key="5" type="xdouble" value="0.9760295021511985"/>
+<entry key="6" type="xdouble" value="0.9760295021511985"/>
+</config>
+<config key="mildrow0_univariate"/>
+<config key="mild0_univariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerow0_univariate"/>
+<config key="extreme0_univariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="stats1_univariate">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.5617977528089887"/>
+<entry key="1" type="xdouble" value="0.5617977528089887"/>
+<entry key="2" type="xdouble" value="0.5617977528089887"/>
+<entry key="3" type="xdouble" value="0.5617977528089887"/>
+<entry key="4" type="xdouble" value="0.5617977528089887"/>
+<entry key="5" type="xdouble" value="0.5617977528089887"/>
+<entry key="6" type="xdouble" value="0.5617977528089887"/>
+</config>
+<config key="mildrow1_univariate"/>
+<config key="mild1_univariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerow1_univariate"/>
+<config key="extreme1_univariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="stats0_multivariate">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.9792060491493383"/>
+<entry key="1" type="xdouble" value="0.9792060491493383"/>
+<entry key="2" type="xdouble" value="0.9792060491493383"/>
+<entry key="3" type="xdouble" value="0.9792060491493383"/>
+<entry key="4" type="xdouble" value="0.9792060491493383"/>
+<entry key="5" type="xdouble" value="0.9792060491493383"/>
+<entry key="6" type="xdouble" value="0.9792060491493383"/>
+</config>
+<config key="mildrow0_multivariate"/>
+<config key="mild0_multivariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerow0_multivariate"/>
+<config key="extreme0_multivariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="stats1_multivariate">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xdouble" value="0.744186046511628"/>
+<entry key="1" type="xdouble" value="0.744186046511628"/>
+<entry key="2" type="xdouble" value="0.744186046511628"/>
+<entry key="3" type="xdouble" value="0.744186046511628"/>
+<entry key="4" type="xdouble" value="0.744186046511628"/>
+<entry key="5" type="xdouble" value="0.744186046511628"/>
+<entry key="6" type="xdouble" value="0.744186046511628"/>
+</config>
+<config key="mildrow1_multivariate"/>
+<config key="mild1_multivariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="extremerow1_multivariate"/>
+<config key="extreme1_multivariate">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+</config>
